@@ -1,0 +1,53 @@
+body{
+    line-height: 1.5;
+    
+}
+
+h1 {
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+
+
+
+}
+
+div {
+    text-align: center;
+
+}
+
+nav {
+    text-transform: uppercase;
+    background-color: white;
+
+}
+
+
+aside{
+    display: inline;
+    word-spacing: 10px;
+    text-align: center;
+    word-spacing: 50px;
+    
+    
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    color: rebeccapurple;
+    clear: both;
+}
+
+.bgsite {
+    background-color: #ab66ea;
+}
+
+.box {
+    display: inline-block;
+    background-color: ghostwhite;
+    border-style: outset;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 450px; height: 300px;
+    margin: 20px 10px;
+}
